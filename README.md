@@ -24,8 +24,8 @@ Graduate of the **Codeworks Full-Stack Software Engineering Program**.
 
 | | |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/f8357e23-fec1-4b7a-bd8b-e0dafb6ed68a" width="420" alt="Dashboard table" /> | <img src="https://github.com/user-attachments/assets/d53602a8-5563-4437-b6a9-51b2d17f3c6d" width="420" alt="Data management modal" /> |
-| <img src="https://github.com/user-attachments/assets/148a73b3-30e6-42e6-a9d0-382ed6a6121e" width="420" alt="Row details / actions" /> | <img src="https://github.com/user-attachments/assets/9ad118e0-ec47-4475-9e99-e88527fa1af0" width="420" alt="Add new job form (compact)" /> |
+| <img src="https://github.com/user-attachments/assets/f8357e23-fec1-4b7a-bd8b-e0dafb6ed68a" width="420" alt="Dashboard table" /> | <img src="https://github.com/user-attachments/assets/148a73b3-30e6-42e6-a9d0-382ed6a6121e" width="420" alt="Row details / actions" /> |
+| <img src="https://github.com/user-attachments/assets/d53602a8-5563-4437-b6a9-51b2d17f3c6d" width="420" alt="Data management modal" /> | <img src="https://github.com/user-attachments/assets/9ad118e0-ec47-4475-9e99-e88527fa1af0" width="420" alt="Add new job form (compact)" /> |
 | <img src="https://github.com/user-attachments/assets/c1beb847-047a-48b0-a93d-d4e13fc951db" width="420" alt="Global Resume Manager" /> | <img src="https://github.com/user-attachments/assets/5c7d103e-b6bd-462a-9402-42a08d2a43be" width="420" alt="Edit job full form" /> |
 
 </div>
