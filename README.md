@@ -45,12 +45,6 @@ My background blends **engineering, product design, and creativity**, which mean
 
 ---
 
-## 📊 GitHub Stats
-![Ryan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ryannerby&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryannerby&layout=compact&theme=radical)
-
----
-
 ## Project Demos
 - **JobNest** — Job search tracker + AI cover letters • *React, Node, PostgreSQL, Tailwind, Claude API*
 
