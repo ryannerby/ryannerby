@@ -36,15 +36,6 @@ My background blends **engineering, product design, and creativity**, which mean
 
 ---
 
-## 🏆 Achievements
-- 🎓 **BASc in Mechanical Engineering, Queen’s University**  
-- 🎓 Graduate of **Codeworks Full-Stack Software Engineering Program**  
-- 🏆 Certified **Gold Music Producer** (RIAA/Music Canada recognition, 100M+ streams, $300K+ licensing)  
-- 💼 SaaS experience: **JobNest, FinSight, Legends Archive**  
-- 🤝 Bridged backgrounds in **engineering, sales, and creative production**  
-
----
-
 ## Project Demos
 - **JobNest** — Job search tracker + AI cover letters • *React, Node, PostgreSQL, Tailwind, Claude API*
 
